@@ -11,3 +11,4 @@
 ****** БАЗОВОЕ *******
 * Enable_Windows_Photo_Viewer.bat - Запускает Enable_Windows_Photo_Viewer.reg от имени администратора. BAT тоже надо запускать от админа!
 * Enable_Windows_Photo_Viewer.reg - Возвращает стандартное приложение "ИЗОБРАЖЕНИЕ" в Windows 10. Для просмотра изображений в стандартной приложухе Windows 
+* OutlookLocalExchange.reg - Отключение AutoDiscover + автосоздание owa профиля. (Необходимо сначала удалить профиль почты юзера)
